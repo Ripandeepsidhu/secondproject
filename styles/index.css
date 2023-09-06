@@ -1,0 +1,24 @@
+.image
+{
+height: 300px;
+width: 300px;
+box-shadow: 10px 10px 20px black;
+border-style: solid;
+
+
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.first-section{
+    text-align: center;
+}
+body{
+    
+    background-image: url(../fe5f677b1627009c4b3e1c1c31dedf71.png);
+    background-position: center;
+    background-size: cover;
+}
